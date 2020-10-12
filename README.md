@@ -1,0 +1,2 @@
+# LatinBot
+Java Bot discord
