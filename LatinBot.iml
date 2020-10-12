@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="IntelliGuard" name="Obfuscation">
+      <configuration>
+        <option name="yGuardJar" value="C:\Users\Miranda\Desktop\yguard-2.7.1\lib\yguard.jar" />
+        <option name="inFile" value="C:\Users\Miranda\IdeaProjects\LatinBot\out\artifacts\LatinBot\LatinBot.jar" />
+        <option name="outFile" value="C:\Users\Miranda\IdeaProjects\LatinBot\out\artifacts\LatinBot\LatinBot2.jar" />
+        <option name="mainclass" value="net.latinplay.latinbot.bot.Main" />
+        <option name="conservemanifest" value="true" />
+        <option name="replaceClassNameStrings" value="false" />
+        <option name="jarConfig">
+          <JarConfig>
+            <option name="jarEntries">
+              <list>
+                <option value="C:\Users\Miranda\IdeaProjects\LatinBot\target\classes" />
+              </list>
+            </option>
+          </JarConfig>
+        </option>
+      </configuration>
+    </facet>
+  </component>
+</module>

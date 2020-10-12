@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="LatinBot" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ae2874fc-5f1e-40f2-bb7d-b52cf5c83ea6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1X4bpV0uAO3Xb1ehb8zrmdE4woE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GenerateAntBuildDialog.backupFiles" value="true" />
+    <property name="GenerateAntBuildDialog.enableUiFormCompile" value="true" />
+    <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
+    <property name="GenerateAntBuildDialog.outputFileNameProperty" value="latinbot" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.rmicompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Miranda\IdeaProjects\LatinBot\src\main\java" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="net.latinplay.latinbot.bot.database" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Miranda\IdeaProjects\LatinBot\src\main\java\net\latinplay\latinbot\bot" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="net.latinplay.latinbot.bot.App" />
+      <module name="LatinBot" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="net.latinplay.latinbot.bot.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.App" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ae2874fc-5f1e-40f2-bb7d-b52cf5c83ea6" name="Default Changelist" comment="" />
+      <created>1580308496283</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580308496283</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="874" y="30" key="#com.intellij.ide.util.MemberChooser" timestamp="1595957847352">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="874" y="30" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1595957847352" />
+    <state x="1788" y="209" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1593554790754">
+      <screen x="1366" y="0" width="1440" height="860" />
+    </state>
+    <state x="1788" y="209" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1593554790754" />
+    <state x="92" y="92" width="1182" height="544" maximized="true" key="DiffContextDialog" timestamp="1595950294062">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" maximized="true" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1595950294062" />
+    <state x="1866" y="156" key="FileChooserDialogImpl" timestamp="1593554439702">
+      <screen x="1366" y="0" width="1440" height="860" />
+    </state>
+    <state x="1866" y="156" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1593554439702" />
+    <state x="474" y="132" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1593485818221" />
+    <state x="213" y="19" key="Maven.ArtifactSearchDialog" timestamp="1595894759990">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="213" y="19" key="Maven.ArtifactSearchDialog/0.0.1366.728@0.0.1366.728" timestamp="1595894759990" />
+    <state x="163" y="0" key="SettingsEditor" timestamp="1595894908878">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="1538" y="0" key="SettingsEditor/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1593554802048" />
+    <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1595894908878" />
+    <state x="92" y="92" width="1182" height="544" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1595950294062">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1595950294062" />
+    <state x="92" y="92" width="1182" height="544" maximized="true" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1595952418113">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" maximized="true" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1595952418113" />
+    <state x="332" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1593551529342">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="332" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1366.728@0.0.1366.728" timestamp="1593551529342" />
+    <state x="1782" y="162" width="607" height="536" key="find.popup" timestamp="1590704777689">
+      <screen x="1366" y="0" width="1440" height="860" />
+    </state>
+    <state x="1782" y="162" width="607" height="536" key="find.popup/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1590704777689" />
+    <state x="65" y="0" key="new project wizard" timestamp="1595799322918">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1595799322918" />
+  </component>
+</project>
